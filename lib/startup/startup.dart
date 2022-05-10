@@ -1,0 +1,1 @@
+export 'view/startup_page.dart';
