@@ -1,0 +1,14 @@
+[
+    {
+        "userId": "1",
+        "phoneNumber": 923103896331,
+        "email": "abc@gmail.com",
+        "userType": "patient"
+    },
+    {
+        "userId": "1",
+        "phoneNumber": 923103896331,
+        "email": "abc@gmail.com",
+        "userType": "caregiver"
+    }
+]
